@@ -12,7 +12,6 @@ public class GitText {
         System.out.println(1);
         System.out.println((1 + 10 + 100 + "分"));
         System.out.println(("fox-EV"));
-
         System.out.println(("fox_EV" + "Text"));
 
 
