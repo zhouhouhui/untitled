@@ -14,6 +14,7 @@ public class GitText {
         System.out.println(("fox-EV"));
         System.out.println(("fox_EV" + "Text"));
         System.out.println(("发送远程库"));
+        System.out.println(("远程库拉取"));
 
 
     }
